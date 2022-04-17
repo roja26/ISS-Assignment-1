@@ -18,4 +18,5 @@
 ## Q5
 - Output prints to terminal
 - To run type ./q5.sh
+## Sample file quotes.txt added
 ## Github Repo Link is - https://github.com/roja26/ISS-Assignment-1.git
